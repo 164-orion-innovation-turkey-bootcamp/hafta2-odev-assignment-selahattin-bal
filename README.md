@@ -1,5 +1,7 @@
 # Hamburger Hazırlama Projesi:
 
+![alt text](console.jpg)
+
 ## 1-Malzeme Listesi: Tüm malzemelerden 5 er adet olduğu varsayılacaktır.
 Marul
 Turşu  
